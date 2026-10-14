@@ -1,6 +1,6 @@
 ### Hi, I'm Abinaya 👋
 
-I'm a CSE (AI) undergraduate at Manipal Institute of Technology, building projects across deep learning, computer vision, and big data — currently looking for AI/ML internship and new-grad opportunities.
+I'm a CSE (AI) undergraduate at Manipal Institute of Technology, currently working at BlackRock, building projects across deep learning, computer vision, and big data.
 
 - 🔭 Currently exploring: transfer learning for image classification, interpretable ML for healthcare applications
 - 🌱 Learning: deeper MLOps and production ML workflows
