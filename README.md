@@ -1,22 +1,22 @@
 ### Hi, I'm Abinaya 👋
 
-I'm a CSE (AI) undergraduate at Manipal Institute of Technology, building projects across computer vision, NLP, and big data — currently looking for AI/ML internship and new-grad opportunities.
+I'm a CSE (AI) undergraduate at Manipal Institute of Technology, building projects across deep learning, computer vision, and big data — currently looking for AI/ML internship and new-grad opportunities.
 
-- 🔭 Currently exploring: classical ML algorithms, computer vision pipelines, and big-data processing with Spark
+- 🔭 Currently exploring: transfer learning for image classification, interpretable ML for healthcare applications
 - 🌱 Learning: deeper MLOps and production ML workflows
-- 💬 Ask me about: OpenCV, scikit-learn, PySpark, NLTK
+- 💬 Ask me about: TensorFlow/Keras, XGBoost, OpenCV, PySpark, SHAP
 - 📫 Reach me: see badges below
 
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
+![XGBoost](https://img.shields.io/badge/-XGBoost-black?style=flat-square)
 ![PySpark](https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=apachespark)
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikitlearn)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
 ![NLTK](https://img.shields.io/badge/-NLTK-black?style=flat-square)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 
 ### 📌 Featured Projects
 
@@ -24,14 +24,28 @@ I'm a CSE (AI) undergraduate at Manipal Institute of Technology, building projec
 <tr>
 <td width="50%">
 
-**[ML Algorithms from Scratch](https://github.com/abinaya25138/ml-algorithms-from-scratch)**
-SVM, KNN, and Decision Trees implemented and compared across classification and regression tasks with scikit-learn.
+**[Cervical Cancer Risk Prediction](https://github.com/abinaya25138/cervical-cancer-prediction)**
+XGBoost vs. DNN on real patient data, 3-reader majority-vote ground truth, SHAP interpretability — with an honest look at why accuracy alone is misleading under class imbalance.
 
 </td>
 <td width="50%">
 
-**[Computer Vision with OpenCV](https://github.com/abinaya25138/ComputerVision)**
-10 classic CV techniques — face/car detection, SIFT matching, optical-flow tracking, camera calibration, edge detection.
+**[Rice Classification — VGG16](https://github.com/abinaya25138/rice-classification-vgg16)**
+Transfer learning for rice grain variety classification. 98.2% held-out test accuracy.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Food Classification — EfficientNetB0 vs MobileNet](https://github.com/abinaya25138/food-classification-efficientnet-mobilenet)**
+Fair head-to-head of two efficiency-oriented CNN architectures on Food-101 — accuracy, training time, and parameter count all compared.
+
+</td>
+<td width="50%">
+
+**[ML Algorithms from Scratch](https://github.com/abinaya25138/ml-algorithms-from-scratch)**
+SVM, KNN, and Decision Trees implemented and compared across classification and regression tasks with scikit-learn.
 
 </td>
 </tr>
@@ -44,8 +58,8 @@ Big-data style ride analysis: dimensional modeling, feature engineering, a regre
 </td>
 <td width="50%">
 
-**[NLTK Retrieval Chatbot](https://github.com/abinaya25138/nltk-retrieval-chatbot)**
-A TF-IDF/cosine-similarity chatbot with greeting detection, typo correction, and named-entity recognition.
+**[Computer Vision with OpenCV](https://github.com/abinaya25138/ComputerVision)**
+10 classic CV techniques — face/car detection, SIFT matching, optical-flow tracking, camera calibration, edge detection.
 
 </td>
 </tr>
