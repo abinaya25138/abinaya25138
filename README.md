@@ -58,5 +58,5 @@ A TF-IDF/cosine-similarity chatbot with greeting detection, typo correction, and
 
 ### 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/REPLACE_ME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abinaya-sriram-14b4041b9)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=Gmail&logoColor=white)](mailto:abinayasriram0601@gmail.com)
