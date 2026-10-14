@@ -1,6 +1,6 @@
 ### Hi, I'm Abinaya 👋
 
-I'm a CSE (AI) undergraduate at Manipal Institute of Technology, currently working at BlackRock, building projects across deep learning, computer vision, and big data.
+Data Engineer Analyst at BlackRock, working on production systems for Aladdin. CSE (AI) graduate of Manipal Institute of Technology — these projects are from my degree and my own time, built and kept running for real.
 
 - 🔭 Currently exploring: transfer learning for image classification, interpretable ML for healthcare applications
 - 🌱 Learning: deeper MLOps and production ML workflows
