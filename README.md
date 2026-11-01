@@ -1,13 +1,14 @@
-### Hi, I'm Abinaya 👋
+### Hi, I'm Abinaya
 
-Data Engineer Analyst at BlackRock, working on production systems for Aladdin. CSE (AI) graduate of Manipal Institute of Technology — these projects are from my degree and my own time, built and kept running for real.
+Data Engineer Analyst at BlackRock, working on production systems for Aladdin. CSE (AI) graduate of Manipal Institute of Technology. The projects here come from my degree and my own time, and each one runs.
 
-- 🔭 Currently exploring: transfer learning for image classification, interpretable ML for healthcare applications
-- 🌱 Learning: deeper MLOps and production ML workflows
-- 💬 Ask me about: TensorFlow/Keras, XGBoost, OpenCV, PySpark, SHAP
-- 📫 Reach me: see badges below
+Portfolio, with live demos: **[abinaya-sriram.vercel.app](https://abinaya-sriram.vercel.app)**
 
-### 🛠️ Tech Stack
+- **Currently exploring:** transfer learning for image classification, interpretable ML for healthcare
+- **Learning:** MLOps and production ML workflows
+- **Ask me about:** TensorFlow/Keras, XGBoost, OpenCV, PySpark, SHAP
+
+### Tech stack
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
@@ -17,60 +18,71 @@ Data Engineer Analyst at BlackRock, working on production systems for Aladdin. C
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
 ![NLTK](https://img.shields.io/badge/-NLTK-black?style=flat-square)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-### 📌 Featured Projects
+### Featured projects
 
 <table>
 <tr>
 <td width="50%">
 
-**[Cervical Cancer Risk Prediction](https://github.com/abinaya25138/cervical-cancer-prediction)**
-XGBoost vs. DNN on real patient data, 3-reader majority-vote ground truth, SHAP interpretability — with an honest look at why accuracy alone is misleading under class imbalance.
+**[Grandad's Compass](https://github.com/abinaya25138/grandads-compass)** · [live demo](https://grandads-compass.vercel.app)
+The family safety dashboard I built for my grandad, who had Alzheimer's. Live map on real OpenStreetMap streets, with safe-zone, fall and inactivity alerts.
 
 </td>
 <td width="50%">
 
-**[Rice Classification — VGG16](https://github.com/abinaya25138/rice-classification-vgg16)**
+**[Cervical Cancer Risk Prediction](https://github.com/abinaya25138/cervical-cancer-prediction)**
+XGBoost vs. DNN on real patient data, with 3-reader majority-vote ground truth and SHAP interpretability. Includes an honest look at why accuracy alone misleads under class imbalance.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Rice Classification with VGG16](https://github.com/abinaya25138/rice-classification-vgg16)**
 Transfer learning for rice grain variety classification. 98.2% held-out test accuracy.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Food Classification — EfficientNetB0 vs MobileNet](https://github.com/abinaya25138/food-classification-efficientnet-mobilenet)**
-Fair head-to-head of two efficiency-oriented CNN architectures on Food-101 — accuracy, training time, and parameter count all compared.
-
-</td>
-<td width="50%">
-
-**[ML Algorithms from Scratch](https://github.com/abinaya25138/ml-algorithms-from-scratch)**
-SVM, KNN, and Decision Trees implemented and compared across classification and regression tasks with scikit-learn.
-
-</td>
-</tr>
-<tr>
 <td width="50%">
 
 **[Taxi Trip Analysis (PySpark)](https://github.com/abinaya25138/taxi-trip-analysis-pyspark)**
-Big-data style ride analysis: dimensional modeling, feature engineering, a regression model, and KMeans pickup-hotspot clustering.
+Big-data ride analysis: dimensional modeling, feature engineering, a regression model, and KMeans pickup-hotspot clustering.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Food Classification: EfficientNetB0 vs MobileNet](https://github.com/abinaya25138/food-classification-efficientnet-mobilenet)**
+A fair head-to-head of two efficiency-oriented CNNs on Food-101, comparing accuracy, training time and parameter count.
 
 </td>
 <td width="50%">
 
 **[Computer Vision with OpenCV](https://github.com/abinaya25138/ComputerVision)**
-10 classic CV techniques — face/car detection, SIFT matching, optical-flow tracking, camera calibration, edge detection.
+10 classic CV techniques: face and car detection, SIFT matching, optical-flow tracking, camera calibration and edge detection.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Fuzzy Tag Search](https://github.com/abinaya25138/fuzzy-tag-search)**
+Three Flask microservices comparing Jaccard similarity, Levenshtein distance and Whoosh full-text search on equipment tags.
+
+</td>
+<td width="50%">
+
+**[ML Algorithms from Scratch](https://github.com/abinaya25138/ml-algorithms-from-scratch)**
+SVM, KNN and Decision Trees implemented and compared across classification and regression tasks.
 
 </td>
 </tr>
 </table>
 
-### 📊 GitHub Stats
+### Connect
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abinaya25138&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya25138&layout=compact&hide_border=true)
-
-### 🤝 Connect
-
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://abinaya-sriram.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abinaya-sriram-14b4041b9)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=Gmail&logoColor=white)](mailto:abinayasriram0601@gmail.com)
