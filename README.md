@@ -33,7 +33,7 @@ The family safety dashboard I built for my grandad, who had Alzheimer's. Live ma
 <td width="50%">
 
 **[Cervical Cancer Risk Prediction](https://github.com/abinaya25138/cervical-cancer-prediction)**
-XGBoost vs. DNN on real patient data, with 3-reader majority-vote ground truth and SHAP interpretability. Includes an honest look at why accuracy alone misleads under class imbalance.
+Predicting biopsy results from risk factors: XGBoost vs. a neural network, evaluated with 50-fold repeated cross-validation against a chance control, with SHAP interpretability.
 
 </td>
 </tr>
